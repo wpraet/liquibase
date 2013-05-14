@@ -16,7 +16,7 @@ import liquibase.test.JUnitResourceAccessor;
 import liquibase.util.StringUtils;
 import liquibase.verify.AbstractVerifyTest;
 import org.junit.Test;
-import sun.plugin2.os.windows.FLASHWINFO;
+//import sun.plugin2.os.windows.FLASHWINFO;
 
 import java.util.*;
 
